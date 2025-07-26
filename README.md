@@ -42,8 +42,6 @@ Data preprocessing and scaling using StandardScaler
 
 Model persistence with kmeans.model
 
-Data file: product_similarity_matrix.csv for item similarity analysis
-
 **Files & Components**
 
 *ShopperSpectrumAnalysis_USVL.ipynb
@@ -58,12 +56,8 @@ Python script with core functions for Streamlit interface design , clustering, a
 
 Saved K-means clustering model used for customer segmentation.
 
-*product_similarity_matrix.csv
-
-Similarity matrix for products to assist in recommendations.
-
 *standard_scaler.pkl
 
 Pickle file containing the scaler used for feature normalization.
 
-**Note:** Replace placeholder URLs and user-specific paths as necessary. 
+**Note:** Replace placeholder URLs and user-specific paths as necessary.
